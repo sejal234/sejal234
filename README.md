@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sejal234
+- 👀 I’m interested in data science! I want to analyze and learn from data to solve problems that affect our communities!
+- 🌱 I know Python & R!
+- 📫 Reach me via email at sejalg101@gmail.com !
